@@ -16,7 +16,7 @@ Bu harita, 42 Istanbul kampüsünün mimarisini ve atmosferini dijital dünyaya 
 
 Eğer haritayı düzenlemek veya kendi bilgisayarınızda derlemek isterseniz şu adımları izleyin:
 
-1. **Gereksinimler:** [Valve Hammer Editor 3.4](https://www.moddb.com/downloads/valve-hammer-editor-34) veya [J.A.C.K.](https://jack.hlfx.ru/en/) editor.
+1. **Gereksinimler:** [Valve Hammer Editor 3.4](https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor) veya [J.A.C.K.](https://jack.hlfx.ru/en/) editor.
 2. **Doku Kurulumu:** `TexturesWadFiles.rar` içerisindeki dosyaları çıkartın ve Editor ayarlarından doku kütüphanesine ekleyin.
 3. **Proje Açılışı:** `half.rmf` dosyasını editor ile açın.
 4. **Derleme (Compile):** `vluzacn_s_zhlt_v34.zip` içerisindeki araçları kullanarak projeyi `.bsp` formatına dönüştürün.
