@@ -7,7 +7,7 @@ Bu harita, 42 Istanbul kampüsünün mimarisini ve atmosferini dijital dünyaya 
 
 ## 📂 Dosya Yapısı ve İçerik
 
-- **`half.rmf`**: Haritanın düzenlenebilir ham proje dosyası (Rich Map Format). Valve Hammer Editor ile açılabilir.
+- **`42_istanbul.rmf`**: Haritanın düzenlenebilir ham proje dosyası (Rich Map Format). Valve Hammer Editor ile açılabilir.
 - **`TexturesWadFiles.rar`**: Haritada kullanılan özel dokuların (textures) bulunduğu `.wad` dosyalarını içerir.
 - **`HLTextureTools_V165.zip`**: Doku yönetimi ve düzenlemesi için kullanılan yardımcı araçlar.
 - **`vluzacn_s_zhlt_v34.zip`**: Haritayı `.bsp` formatına derlemek (compile) için kullanılan modern ZHLT (Zoner's Half-Life Tools) derleme araçları.
@@ -18,7 +18,7 @@ Eğer haritayı düzenlemek veya kendi bilgisayarınızda derlemek isterseniz ş
 
 1. **Gereksinimler:** [Valve Hammer Editor 3.4](https://developer.valvesoftware.com/wiki/Valve_Hammer_Editor) veya [J.A.C.K.](https://jack.hlfx.ru/en/) editor.
 2. **Doku Kurulumu:** `TexturesWadFiles.rar` içerisindeki dosyaları çıkartın ve Editor ayarlarından doku kütüphanesine ekleyin.
-3. **Proje Açılışı:** `half.rmf` dosyasını editor ile açın.
+3. **Proje Açılışı:** `42_istanbul.rmf` dosyasını editor ile açın.
 4. **Derleme (Compile):** `vluzacn_s_zhlt_v34.zip` içerisindeki araçları kullanarak projeyi `.bsp` formatına dönüştürün.
 
 ## 🎮 Oynanış
@@ -26,3 +26,8 @@ Harita derlendikten sonra oluşan `.bsp` dosyasını Half-Life veya Counter-Stri
 
 ---
 *Bu proje 42 Istanbul GDC (Game Developers Club) tarafından geliştirilmektedir.*
+
+**Kullandığım geliştirme araçları;** 
+**Derleme Aracı: **[VHLT-34](https://github.com/twhl-community/VHLT-V34)
+**Texture Düzenleme Aracı: **[HL_TEXTURE](https://github.com/yuraj11/HL-Texture-Tools)
+
