@@ -37,4 +37,4 @@ Harita derlendikten sonra oluşan `.bsp` dosyasını Half-Life veya Counter-Stri
 *   **Texture Düzenleme Aracı:** [HL_TEXTURE](https://github.com/yuraj11/HL-Texture-Tools)
 
 ---
-*Bu proje 42 Istanbul GDC (Game Developers Club) tarafından geliştirilmektedir.*
+*Bu proje 42 Istanbul Game Design and Development Club tarafından geliştirilmektedir.*
