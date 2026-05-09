@@ -1,6 +1,6 @@
 # 42 Istanbul Campus Map (GoldSource)
 
-Bu proje, **42 Istanbul** kampüsünün GoldSource motoru (Half-Life 1, Counter-Strike 1.6 vb.) kullanan oyunlar için oluşturulmuş birebir ölçekli bir harita replikasıdır.
+Bu proje, **42 Istanbul** kampüsünün GoldSource motoru (Half-Life 1, Counter-Strike 1.6 vb.) kullanan oyunlar için oluşturulmuş boyutları gerçeğe yakın ölçekli bir harita replikasıdır.
 
 ## 📌 Proje Hakkında
 Bu harita, 42 Istanbul kampüsünün mimarisini ve atmosferini dijital dünyaya taşımak amacıyla geliştirilmiştir. GoldSource oyun motoru için optimize edilmiş olan bu proje, hem bir mühendislik çalışması hem de topluluk için bir oyun alanı sunar.
