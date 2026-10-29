@@ -3,7 +3,7 @@
 "classname" "worldspawn"
 "MaxRange" "7000"
 "mapversion" "220"
-"wad" "\usedwadfile\chateau.wad;\usedwadfile\cs_assault.wad;\usedwadfile\cstrike.wad;\usedwadfile\kampus_texture.wad;\usedwadfile\minecraft.wad;\usedwadfile\tekela1.wad;\usedwadfile\wood_s.wad;\usedwadfile\zhlt.wad;\usedwadfile\lego.wad;\usedwadfile\wood_custom_pack.wad;\usedwadfile\decals.wad"
+"wad" "\csmap\campus_map_gold_source\textureswadfiles\chateau.wad;\csmap\campus_map_gold_source\textureswadfiles\cs_assault.wad;\csmap\campus_map_gold_source\textureswadfiles\cstrike.wad;\csmap\campus_map_gold_source\textureswadfiles\decals.wad;\csmap\campus_map_gold_source\textureswadfiles\kampus_texture.wad;\csmap\campus_map_gold_source\textureswadfiles\zhlt.wad"
 {
 ( -881 -584 -40 ) ( -891 -584 -40 ) ( -891 -578 -40 ) METALTILE3 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
 ( -881 -578 -146 ) ( -891 -578 -146 ) ( -891 -584 -146 ) METALTILE3 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
